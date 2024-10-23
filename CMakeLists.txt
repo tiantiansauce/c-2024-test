@@ -1,0 +1,1 @@
+add_executable(shiyan1 shiyan1.cpp)
